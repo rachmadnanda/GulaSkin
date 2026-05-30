@@ -1,0 +1,6 @@
+{
+  "name": "Pelacak Gula & Kesehatan Kulit",
+  "description": "Analisis asupan gula tambahan dan dampaknya terhadap kesehatan kulit wajah menggunakan AI ahli gizi klinis.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
